@@ -1,6 +1,14 @@
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
 
-# Portfolio V1
+
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -10,8 +18,25 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Github][github-shield]][github-url]
+[![Github][Github-shield]][Github-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
 
 
@@ -25,14 +50,26 @@ I then host it on Github Pages.
 
 This is my very first step into web development and I hope to impart CSS and Javascript components into future web projects.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ### Built With
 
 This section contains the tools and materials I use for my project. 
 
-* [![Next][Next.js]][Next-url]
-* [![HTML5][HTML5.js][HTML5-url]
+* [![HTML5][HTML5-shield]][HTML5-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+- [x] HTML5 Basic Website
+- [ ] CSS3 + HTMl5 Website
+- [ ] JS + CSS3 + HTML5 Website
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -41,9 +78,9 @@ This section contains the tools and materials I use for my project.
 <!-- CONTACT -->
 ## Contact
 
-Javian Ng - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Javian Ng - [@shotbyj.av](https://www.instagram.com/shotbyj.ave) - javian.ng.z.h@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/javianng/introductiontohtml5_personalproject](https://github.com/javianng/introductiontohtml5_personalproject)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -52,27 +89,24 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Really grateful for the guidance and lessons that I have gotten from the University of Michigan's Course, Introduction to HTML5
+Really grateful for the guidance and lessons that I have gotten from the University of Michigan's Course, Introduction to HTML5.
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+[University of Michigan - Introduction to HTML5](https://www.coursera.org/learn/html?specialization=web-design)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[HTML5.io]: https://img.shields.io/badge/HTML5-HTML5-brightgreen?style=flat&logo=appveyor
+[GitHub-shield]: https://img.shields.io/badge/-GitHub-lightgrey?style=for-the-badge&logo=github&colorB=555
+[Github-url]: https://github.com/javianng/introductiontohtml5_personalproject
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[HTML5-shield]: https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&color=E34F26&logoColor=white
+[HTML5-url]: https://
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/javianngzh/
+
+
+
